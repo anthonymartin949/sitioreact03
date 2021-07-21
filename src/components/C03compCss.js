@@ -5,7 +5,7 @@ import style from './C03compCssObj.js'  //Archivo js con estilos como objeto
 
 const C03componenteConCss = () => {
     return (
-        <div className="marcoComponente">
+        <div classNameNameNamesNameName="marcoComponente">
             <h4>Componente 3. Con formas de definir estilos</h4>
 
             <button style={{backgroundColor:'green', color:'blue', padding:'3px'}}>
